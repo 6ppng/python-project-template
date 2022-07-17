@@ -14,10 +14,9 @@
         * フォーマッタ
             * `balack`
             * `isort`
-        * リンター
+        * リンタ
             * `flake8`
             * `mypy`
-
 * `flake8-cognitive-complexity`
     * `flake8`用プラグインライブラリ。
     * 認知的複雑度に制約を設ける。
